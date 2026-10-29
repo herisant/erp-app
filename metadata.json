@@ -1,0 +1,7 @@
+{
+  "name": "Aksara Cloud ERP",
+  "description": "Sistem ERP Enterprise Cloud untuk Manajemen Inventaris Multigudang dan Keuangan Terpadu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
